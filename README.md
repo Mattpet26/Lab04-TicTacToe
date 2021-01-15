@@ -15,7 +15,8 @@ Double click on the Lab04-TicTacToe directory.
 Then select and open Lab04-TicTacToe.sln
 
 ## Example
-Show them what looks like and how how to use the application.
+![image](turn1.PNG)
+![image](winner.PNG)
 
 ## Architecture
 C# + VSC
